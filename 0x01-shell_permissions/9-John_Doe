@@ -4,3 +4,5 @@ chmod 753
 -rwxr-x-wx
 #!bin/bash
 -rwxr-x-wx 
+#!bin/bash
+chmod 753
